@@ -1,19 +1,26 @@
-# آلة حاسبة - أول مشروع لي 🧮
+# Simple Calculator 🧮 - My First Project
 
-مرحبا! انا نورهان وده أول مشروع برمجة ليا بـ Python.
+Hi! I'm Nourhan and this is my first Python project.
 
-## الفكرة
-آلة حاسبة بسيطة بتاخد رقمين وتعمل:
-- جمع
-- طرح
-- ضرب
-- قسمة
+## About
+A simple calculator that takes two numbers and does:
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
 
-## ازاي تشغلها
+## How to run
 python calculator.py
 
-## اتعلمت ايه
-- ازاي استخدم input و float
-- ازاي اعمل مشروع على GitHub
+## What I Learned
+- How to use input() and float()
+- How to handle errors (division by zero)
+- How to create a project on GitHub
 
-صنع بـ ❤️ بواسطة نورهان
+## Example
+Enter first number: 10
+Enter second number: 5
+Result: 10 + 5 = 15
+
+---
+Made with ❤️ by Nourhan
